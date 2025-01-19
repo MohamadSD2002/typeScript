@@ -11,7 +11,6 @@ const MenuItems: React.FC = () => {
     { id: 1, href: "/", title: "Home" },
     { id: 2, href: "/users", title: "Users" },
     { id: 3, href: "/about", title: "About" },
-    { id: 4, href: "/clienTest", title: "Clien Test" },
   ];
 
   return (
